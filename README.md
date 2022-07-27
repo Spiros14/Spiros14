@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spiros14
+- 👋 Hi, I’m @ Spyros Pantazis 
 - 🌱 I’m currently learning Html Css Js Bootstrap Jquery xml json.
 - 💞️ I’m looking to collaborate on  programming companies as web developer.
 - 📫 SpirosPs12@gmail.com
